@@ -1,0 +1,4 @@
+ofxCartesianCylindricalSpherical
+ofxDelaunay
+ofxMidi
+ofxSyphon
